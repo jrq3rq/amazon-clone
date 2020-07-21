@@ -19,14 +19,14 @@ function Header() {
             {/* 3 links */}
             <div className="header_nav">
                 {/* 1st link */}
-                <Link to="/login" className="header_link">
+                <Link to="/signin" className="header_link">
                     <div className="header_option">
                         <span className="header_optionLineOne">Hello James</span>
                         <span className="header_optionLineTwo">Sign In</span>
                     </div>
                 </Link>
                 {/* 2nd link  */}
-                <Link to="/login" className="header_link">
+                <Link to="/summary" className="header_link">
                     <div className="header_option">
                         <span className="header_optionLineOne">Returns</span>
                         <span className="header_optionLineTwo">& Orders</span>
@@ -46,7 +46,7 @@ function Header() {
                         {/* shopping basket icons */}
                         <ShoppingBasketIcon />
                         {/* number of items in the basket */}
-                        <span className="header_optionLineTwo">0</span>
+                        <span className="header_optionLineTwo header_basketCount">0</span>
                     </div>
                 </Link>
             </div>
