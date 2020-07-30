@@ -77,7 +77,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 6. Build the product component
 7. react context api 
 8. setup add to basket button
-9. build checkout page
+9. build checkout page 
 10. build subtotal component
 11. build log in page
 12. deploy the app LIVE on firebase
