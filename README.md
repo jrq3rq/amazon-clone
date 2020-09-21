@@ -1,3 +1,10 @@
+Amazon Clone Imgaes:
+
+![Image of Amazon clone login](./src/images/amazon-clone-login-img.png)
+![Image of Amazon clone landing page](./src/images/amazon-clone-landing.png)
+![Image of Amazon clone checkout](./src/images/amazon-clone-checkout.png)
+![Image of Amazon clone total](./src/images/amazon-clone-total.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,15 +76,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ```shell
 
-1. set up react using npx create-react-app 
+1. set up react using npx create-react-app
 2. set up firebase
 3. set up react router
 4. Build the nav bar (header)
 5. Build the banner
 6. Build the product component
-7. react context api 
+7. react context api
 8. setup add to basket button
-9. build checkout page 
+9. build checkout page
 10. build subtotal component
 11. build log in page
 12. deploy the app LIVE on firebase
